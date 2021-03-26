@@ -1,0 +1,8 @@
+id=sdm636booster
+name=SDM 636 Booster
+version=v1.0
+versionCode=1
+date=26-06-2021
+author=wahyu6070 @xda-developers
+description=Snapdragon 636 Booster cpu and gpu to maximum speed clock.
+minMagisk=1500
